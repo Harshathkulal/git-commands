@@ -1,5 +1,2 @@
-git init
-git add .
-git commit -m "Initial Commmit"
-git remote origin <branch name>
+
 
