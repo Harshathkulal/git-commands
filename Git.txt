@@ -1,5 +1,7 @@
 git init
 git add .
 git commit -m "Initial Commmit"
+git branch -M main 
 git remote origin <branch name>
-asdfghjkkhgfdsdf
+git push -u origin main
+git pull origin main
